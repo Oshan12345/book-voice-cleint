@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDv9X5t4QVx5ATHIKEArrt2xd4sOuY4obw",
-  authDomain: "book-voice.firebaseapp.com",
-  projectId: "book-voice",
-  storageBucket: "book-voice.appspot.com",
-  messagingSenderId: "604507523129",
-  appId: "1:604507523129:web:84b28d80e90e2f350da5e8",
+  apiKey: "AIzaSyCRx_Q6ttjS1LPVrcio1Vew7UJb8J5_dyA",
+  authDomain: "book-voice-13bbb.firebaseapp.com",
+  projectId: "book-voice-13bbb",
+  storageBucket: "book-voice-13bbb.appspot.com",
+  messagingSenderId: "844965693241",
+  appId: "1:844965693241:web:ef9eed8b8629a09dd80ae8",
 };
 
 export default firebaseConfig;

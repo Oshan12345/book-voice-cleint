@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Map from "./Map";
 
 const OrderTracking = () => {
   return (
@@ -51,7 +50,7 @@ const OrderTracking = () => {
         </div>
       </div>
       <h4 className="text-center">Updates</h4>
-      <div className="d-flex flex-column flex-md-row justify-content-between">
+      <div className="">
         <div className="table-responsive m-3">
           <table className="table table-info">
             <thead>
@@ -94,9 +93,6 @@ const OrderTracking = () => {
             {" "}
             <button className="btn btn-primary"> Back to order page</button>
           </Link>
-        </div>
-        <div className="m-3" style={{ minWidth: "60%" }}>
-          <Map />
         </div>
       </div>{" "}
     </div>
